@@ -16,6 +16,8 @@ Usage
   install plugin
 
   u are done! :)
+  
+    the plugin copies a mongo_mail_store.yml in /config for set the store option for the environments
 
 
 Copyright (c) 2010 Metrik , released under the MIT license
