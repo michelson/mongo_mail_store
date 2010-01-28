@@ -13,7 +13,7 @@ Usage
 
   make a proper connection to mongo_mapper
 
-install plugin
+  install plugin
 
   u are done! :)
 
