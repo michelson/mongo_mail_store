@@ -1,21 +1,21 @@
 MongoMailStore
 ==============
 
-Plugin for catch outcoming emails and store in MongoDB
+Rails plugin for catch outcoming emails and store in MongoDB
 
 Requirements
 =======
 
-MongoMapper gem
+  MongoMapper gem
 
 Usage
 =======
 
-make a proper connection to mongo_mapper
+  make a proper connection to mongo_mapper
+
 install plugin
-u are done :)
+
+  u are done! :)
 
 
-
-
-Copyright (c) 2010 Metrikco , released under the MIT license
+Copyright (c) 2010 Metrik , released under the MIT license
